@@ -52,8 +52,16 @@ https://github.com/a327ex/windfield
 ### Anim8 ->
 https://github.com/kikito/anim8
 
+<br>
+
 ***
 
 > :warning: **Disclaimer**: The licensing attached to this repository is not my own. I am only acknowledging the creators ownership and my free use of the product as stated in the licensing agreement.
+
+***
+
+> **Original Creator(to my knowledge):**
+> * https://github.com/kyleschaub/snippets
+> * https://www.youtube.com/watch?v=kpxkQldiNPU&list=PLqPLyUreLV8DrLcLvQQ64Uz_h_JGLgGg2&pp=iAQB 
 
 ***
