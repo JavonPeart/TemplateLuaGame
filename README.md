@@ -1,11 +1,11 @@
 # Template Lua Game 
 
-This repository serves as a template for a simple Lua game using the LÖVE framework.
+<p>This repository serves as a template for a simple Lua game using the LÖVE framework.
 It demonstrates basic setup for game window, required modules, player initialization,
-collision handling, camera control, game update, and rendering.
+collision handling, camera control, game update, and rendering.</p>
 
-You are free to use this template in any capacity but I am not responisible for any outcome 
-that may result from using this package. 
+<p>You are free to use this template in any capacity but I am not responisible for any outcome 
+that may result from using this package. </p>
 
 Have fun :)
 <br> 
